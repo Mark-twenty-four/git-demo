@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello Git  master test
 hello hot-fix
+=======
+hello Git
+hello hot-fix	hot-fix test
+>>>>>>> hot-fix
