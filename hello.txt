@@ -5,3 +5,6 @@ hello hot-fix
 hello Git
 hello hot-fix	hot-fix test
 >>>>>>> hot-fix
+add new
+add new
+add new
